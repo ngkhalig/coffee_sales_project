@@ -1,7 +1,7 @@
 # ☕ Coffee Orders Dashboard (Excel Project)
 
 ## 📌 Overview  
-This project analyzes coffee order data using Microsoft Excel. The goal is to uncover customer behavior, revenue patterns, and product performance to support sales strategy and marketing efforts.
+This project analyzes coffee order data using Microsoft Excel. 
 
 ## 🧰 Tools & Features  
 - Excel (Pivot Tables, VLOOKUP, Slicers, Charts, Conditional Formatting)  
